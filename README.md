@@ -1,2 +1,3 @@
 # DataScienceProjects
-A repository where I will post notebooks of different Data Science projects
+
+This is a repository where I will be posting different notebooks related to Data Science projects.
